@@ -202,6 +202,9 @@
   .top-\[0px\] {
     top: 0px;
   }
+  .top-\[20px\] {
+    top: 20px;
+  }
   .top-\[50px\] {
     top: 50px;
   }
@@ -262,17 +265,44 @@
   .right-\[280px\] {
     right: 280px;
   }
+  .right-\[430px\] {
+    right: 430px;
+  }
+  .right-\[630px\] {
+    right: 630px;
+  }
+  .left-\[-50px\] {
+    left: -50px;
+  }
   .left-\[15px\] {
     left: 15px;
+  }
+  .left-\[20px\] {
+    left: 20px;
+  }
+  .left-\[50px\] {
+    left: 50px;
   }
   .left-\[75px\] {
     left: 75px;
   }
+  .left-\[130px\] {
+    left: 130px;
+  }
+  .left-\[150px\] {
+    left: 150px;
+  }
   .left-\[180px\] {
     left: 180px;
   }
+  .left-\[230px\] {
+    left: 230px;
+  }
   .left-\[380px\] {
     left: 380px;
+  }
+  .left-\[450px\] {
+    left: 450px;
   }
   .left-\[500px\] {
     left: 500px;
@@ -556,6 +586,12 @@
   .w-10 {
     width: calc(var(--spacing) * 10);
   }
+  .w-\[\%\] {
+    width: %;
+  }
+  .w-\[5\%\] {
+    width: 5%;
+  }
   .w-\[14px\] {
     width: 14px;
   }
@@ -610,8 +646,14 @@
   .w-\[55\%\] {
     width: 55%;
   }
+  .w-\[60\%\] {
+    width: 60%;
+  }
   .w-\[65\%\] {
     width: 65%;
+  }
+  .w-\[70\%\] {
+    width: 70%;
   }
   .w-\[78px\] {
     width: 78px;
